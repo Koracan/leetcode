@@ -1,0 +1,72 @@
+//给你一个满足下述两条属性的 m x n 整数矩阵： 
+//
+// 
+// 每行中的整数从左到右按非严格递增顺序排列。 
+// 每行的第一个整数大于前一行的最后一个整数。 
+// 
+//
+// 给你一个整数 target ，如果 target 在矩阵中，返回 true ；否则，返回 false 。 
+//
+// 
+//
+// 示例 1： 
+// 
+// 
+//输入：matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3
+//输出：true
+// 
+//
+// 示例 2： 
+// 
+// 
+//输入：matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
+//输出：false
+// 
+//
+// 
+//
+// 提示： 
+//
+// 
+// m == matrix.length 
+// n == matrix[i].length 
+// 1 <= m, n <= 100 
+// -10⁴ <= matrix[i][j], target <= 10⁴ 
+// 
+//
+// Related Topics 数组 二分查找 矩阵 👍 1046 👎 0
+
+namespace SearchA2dMatrix;
+
+//leetcode submit region begin(Prohibit modification and deletion)
+public class Solution
+{
+    public bool SearchMatrix(int[][] matrix, int target)
+    {
+        int m = matrix.Length, n = matrix[0].Length;
+        // 找到最后一个开头小于等于target的行, 不存在则为 -1
+        int i = -1, j = m - 1;
+        while (i < j) {
+            var mid = (i + j + 1) / 2;
+
+            if (matrix[mid][0] > target) j = mid - 1;
+            else i = mid;
+        }
+
+        if (i == -1) return false;
+        var row = i;
+        // 在该行找 target
+        i = 0;
+        j = n - 1;
+        while (i < j) {
+            var mid = (i + j) / 2;
+            if (matrix[row][mid] == target) return true;
+
+            if (matrix[row][mid] > target) j = mid - 1;
+            else i = mid + 1;
+        }
+
+        return matrix[row][i] == target;
+    }
+}
+//leetcode submit region end(Prohibit modification and deletion)

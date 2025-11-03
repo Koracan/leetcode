@@ -1,0 +1,74 @@
+//给定两个整数 n 和 k，返回范围 [1, n] 中所有可能的 k 个数的组合。 
+//
+// 你可以按 任何顺序 返回答案。 
+//
+// 
+//
+// 示例 1： 
+//
+// 
+//输入：n = 4, k = 2
+//输出：
+//[
+//  [2,4],
+//  [3,4],
+//  [2,3],
+//  [1,2],
+//  [1,3],
+//  [1,4],
+//] 
+//
+// 示例 2： 
+//
+// 
+//输入：n = 1, k = 1
+//输出：[[1]] 
+//
+// 
+//
+// 提示： 
+//
+// 
+// 1 <= n <= 20 
+// 1 <= k <= n 
+// 
+//
+// Related Topics 回溯 👍 1763 👎 0
+
+namespace Combinations;
+
+//leetcode submit region begin(Prohibit modification and deletion)
+public class Solution
+{
+    public IList<IList<int>> Combine(int n, int k)
+    {
+        var adds = new int[k];
+        for (var i = 0; i < k; i++) {
+            adds[i] = 1;
+        }
+
+        var result = new List<IList<int>>();
+        Dfs(0, 0);
+
+        return result;
+
+        void Dfs(int index, int sum)
+        {
+            if (sum + k - 1 - index + 1 == n || index == k) {
+                var comb = new int[k];
+                var num = 0;
+                for (var i = 0; i < k; i++) comb[i] = num += adds[i];
+                result.Add(comb);
+                return;
+            }
+
+            for (var add = 1; sum + add + k - 1 - index <= n; add++) {
+                adds[index] = add;
+                Dfs(index + 1, sum + add);
+            }
+
+            adds[index] = 1;
+        }
+    }
+}
+//leetcode submit region end(Prohibit modification and deletion)
