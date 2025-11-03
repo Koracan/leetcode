@@ -1,3 +1,5 @@
-﻿using SlidingWindowMaximum;
+﻿using DifferentWaysToAddParentheses;
+using Dumpify;
 
-Console.WriteLine(new Solution().MaxSlidingWindow([1,3,-1,-3,5,3,6,7],3));
+
+new Solution().DiffWaysToCompute("2*3-4*5").Dump();

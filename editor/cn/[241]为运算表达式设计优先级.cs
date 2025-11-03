@@ -47,7 +47,55 @@ public class Solution
 {
     public IList<int> DiffWaysToCompute(string expression)
     {
-        return [];
+        var operators = new List<char>();
+        var operands = new List<int>();
+        for (int i = 0; i < expression.Length;)
+            if (char.IsDigit(expression[i])) {
+                var num = 0;
+                while (i < expression.Length && char.IsDigit(expression[i])) {
+                    num *= 10;
+                    num += expression[i] - '0';
+                    i++;
+                }
+                operands.Add(num);
+            } else {
+                operators.Add(expression[i]);
+                i++;
+            }
+
+        if (operators.Count == 0) return operands;
+
+        var n = operators.Count;
+        var dp = new List<int>?[n, n]; // dp[i,j] 表示从第i个运算符到第j个运算符的所有可能结果，闭区间
+
+        return AllResults(0, n - 1);
+
+        List<int> AllResults(int lo, int hi) // 闭区间
+        {
+            if (dp[lo, hi] != null) return dp[lo, hi]!;
+            var results = new List<int>();
+            for (int i = lo; i <= hi; i++) {
+                var left = lo <= i - 1 ? AllResults(lo, i - 1) : [operands[lo]];
+                var right = i + 1 <= hi ? AllResults(i + 1, hi) : [operands[hi + 1]];
+
+                foreach (var l in left)
+                    foreach (var r in right)
+                        switch (operators[i]) {
+                            case '+':
+                                results.Add(l + r);
+                                break;
+                            case '-':
+                                results.Add(l - r);
+                                break;
+                            case '*':
+                                results.Add(l * r);
+                                break;
+                        }
+            }
+
+            dp[lo, hi] = results;
+            return results;
+        }
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
