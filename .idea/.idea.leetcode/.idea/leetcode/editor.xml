@@ -1499,6 +1499,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[257]二叉树的所有路径.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[257]二叉树的所有路径.md" />
+              <option name="frontendQuestionId" value="leetcode.cn257" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[257]二叉树的所有路径.cs" />
+              <option name="titleSlug" value="binary-tree-paths" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[258]各位相加.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[258]各位相加.md" />
+              <option name="frontendQuestionId" value="leetcode.cn258" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[258]各位相加.cs" />
+              <option name="titleSlug" value="add-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[25]K 个一组翻转链表.cs">
           <value>
             <LeetcodeEditor>
@@ -1507,6 +1529,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[25]K 个一组翻转链表.cs" />
               <option name="titleSlug" value="reverse-nodes-in-k-group" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[260]只出现一次的数字 III.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[260]只出现一次的数字 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn260" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[260]只出现一次的数字 III.cs" />
+              <option name="titleSlug" value="single-number-iii" />
             </LeetcodeEditor>
           </value>
         </entry>
