@@ -1664,6 +1664,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[284]窥视迭代器.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[284]窥视迭代器.md" />
+              <option name="frontendQuestionId" value="leetcode.cn284" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[284]窥视迭代器.cs" />
+              <option name="titleSlug" value="peeking-iterator" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[287]寻找重复数.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[287]寻找重复数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn287" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[287]寻找重复数.cs" />
+              <option name="titleSlug" value="find-the-duplicate-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[289]生命游戏.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[289]生命游戏.md" />
+              <option name="frontendQuestionId" value="leetcode.cn289" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[289]生命游戏.cs" />
+              <option name="titleSlug" value="game-of-life" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[28]找出字符串中第一个匹配项的下标.cs">
           <value>
             <LeetcodeEditor>
@@ -1675,6 +1708,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[290]单词规律.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[290]单词规律.md" />
+              <option name="frontendQuestionId" value="leetcode.cn290" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[290]单词规律.cs" />
+              <option name="titleSlug" value="word-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[2918]数组的最小相等和.cs">
           <value>
             <LeetcodeEditor>
@@ -1683,6 +1727,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[2918]数组的最小相等和.cs" />
               <option name="titleSlug" value="minimum-equal-sum-of-two-arrays-after-replacing-zeros" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[292]Nim 游戏.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[292]Nim 游戏.md" />
+              <option name="frontendQuestionId" value="leetcode.cn292" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[292]Nim 游戏.cs" />
+              <option name="titleSlug" value="nim-game" />
             </LeetcodeEditor>
           </value>
         </entry>
