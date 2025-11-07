@@ -1,9 +1,6 @@
-﻿using FindMedianFromDataStream;
+﻿using SerializeAndDeserializeBinaryTree;
 using Dumpify;
 
 
-var finder =  new MedianFinder();
-finder.AddNum(0);
-finder.AddNum(0);
-finder.FindMedian();
+new Codec().deserialize("[1,2,3,null,null,4,5]");
 
