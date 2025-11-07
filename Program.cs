@@ -1,5 +1,9 @@
-﻿using DifferentWaysToAddParentheses;
+﻿using FindMedianFromDataStream;
 using Dumpify;
 
 
-new Solution().DiffWaysToCompute("2*3-4*5").Dump();
+var finder =  new MedianFinder();
+finder.AddNum(0);
+finder.AddNum(0);
+finder.FindMedian();
+
