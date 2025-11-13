@@ -1972,6 +1972,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[327]区间和的个数.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[327]区间和的个数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn327" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[327]区间和的个数.cs" />
+              <option name="titleSlug" value="count-of-range-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[328]奇偶链表.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[328]奇偶链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn328" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[328]奇偶链表.cs" />
+              <option name="titleSlug" value="odd-even-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[3341]到达最后一个房间的最少时间 I.cs">
           <value>
             <LeetcodeEditor>
