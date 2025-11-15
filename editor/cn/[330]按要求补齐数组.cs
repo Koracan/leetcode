@@ -61,8 +61,7 @@ public class Solution
                 // we do not increase i since it was not used
             } else {
                 expressUpTo += (uint)nums[i];
-                i++;
-                // we increase i since we used nums[i]
+                i++; // we increase i since we used nums[i]
             }
 
         return patches;

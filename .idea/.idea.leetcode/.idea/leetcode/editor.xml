@@ -2016,6 +2016,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[331]验证二叉树的前序序列化.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[331]验证二叉树的前序序列化.md" />
+              <option name="frontendQuestionId" value="leetcode.cn331" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[331]验证二叉树的前序序列化.cs" />
+              <option name="titleSlug" value="verify-preorder-serialization-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[332]重新安排行程.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[332]重新安排行程.md" />
+              <option name="frontendQuestionId" value="leetcode.cn332" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[332]重新安排行程.cs" />
+              <option name="titleSlug" value="reconstruct-itinerary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[3341]到达最后一个房间的最少时间 I.cs">
           <value>
             <LeetcodeEditor>
@@ -2035,6 +2057,61 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[3343]统计平衡排列的数目.cs" />
               <option name="titleSlug" value="count-number-of-balanced-permutations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[334]递增的三元子序列.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[334]递增的三元子序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn334" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[334]递增的三元子序列.cs" />
+              <option name="titleSlug" value="increasing-triplet-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[335]路径交叉.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[335]路径交叉.md" />
+              <option name="frontendQuestionId" value="leetcode.cn335" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[335]路径交叉.cs" />
+              <option name="titleSlug" value="self-crossing" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[336]回文对.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[336]回文对.md" />
+              <option name="frontendQuestionId" value="leetcode.cn336" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[336]回文对.cs" />
+              <option name="titleSlug" value="palindrome-pairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[337]打家劫舍 III.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[337]打家劫舍 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn337" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[337]打家劫舍 III.cs" />
+              <option name="titleSlug" value="house-robber-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[338]比特位计数.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[338]比特位计数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn338" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[338]比特位计数.cs" />
+              <option name="titleSlug" value="counting-bits" />
             </LeetcodeEditor>
           </value>
         </entry>

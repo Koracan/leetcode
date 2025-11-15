@@ -1,6 +1,6 @@
-﻿using SerializeAndDeserializeBinaryTree;
+﻿using VerifyPreorderSerializationOfABinaryTree;
 using Dumpify;
 
 
-new Codec().deserialize("[1,2,3,null,null,4,5]");
+new Solution().IsValidSerialization("9,3,4,#,#,1,#,#,2,#,6,#,#");
 
