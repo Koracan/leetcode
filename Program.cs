@@ -1,6 +1,5 @@
-﻿using VerifyPreorderSerializationOfABinaryTree;
+﻿using IntegerBreak;
 using Dumpify;
 
 
-new Solution().IsValidSerialization("9,3,4,#,#,1,#,#,2,#,6,#,#");
-
+new Solution().IntegerBreak(48).Dump();
