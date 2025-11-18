@@ -2203,6 +2203,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[352]将数据流变为多个不相交区间.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[352]将数据流变为多个不相交区间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn352" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[352]将数据流变为多个不相交区间.cs" />
+              <option name="titleSlug" value="data-stream-as-disjoint-intervals" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[3539]魔法序列的数组乘积之和.cs">
           <value>
             <LeetcodeEditor>
@@ -2211,6 +2222,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[3539]魔法序列的数组乘积之和.cs" />
               <option name="titleSlug" value="find-sum-of-array-product-of-magical-sequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[354]俄罗斯套娃信封问题.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[354]俄罗斯套娃信封问题.md" />
+              <option name="frontendQuestionId" value="leetcode.cn354" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[354]俄罗斯套娃信封问题.cs" />
+              <option name="titleSlug" value="russian-doll-envelopes" />
             </LeetcodeEditor>
           </value>
         </entry>
