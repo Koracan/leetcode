@@ -2236,6 +2236,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[355]设计推特.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[355]设计推特.md" />
+              <option name="frontendQuestionId" value="leetcode.cn355" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[355]设计推特.cs" />
+              <option name="titleSlug" value="design-twitter" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[357]统计各位数字都不同的数字个数.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[357]统计各位数字都不同的数字个数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn357" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[357]统计各位数字都不同的数字个数.cs" />
+              <option name="titleSlug" value="count-numbers-with-unique-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[363]矩形区域不超过 K 的最大数值和.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[363]矩形区域不超过 K 的最大数值和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn363" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[363]矩形区域不超过 K 的最大数值和.cs" />
+              <option name="titleSlug" value="max-sum-of-rectangle-no-larger-than-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[497]非重叠矩形中的随机点.cs">
           <value>
             <LeetcodeEditor>
