@@ -10,6 +10,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="BenchmarkDotNet" Version="0.15.6" />
       <PackageReference Include="Dumpify" Version="0.6.6" />
     </ItemGroup>
 
