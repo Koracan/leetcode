@@ -2324,6 +2324,83 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[373]查找和最小的 K 对数字.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[373]查找和最小的 K 对数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn373" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[373]查找和最小的 K 对数字.cs" />
+              <option name="titleSlug" value="find-k-pairs-with-smallest-sums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[374]猜数字大小.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[374]猜数字大小.md" />
+              <option name="frontendQuestionId" value="leetcode.cn374" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[374]猜数字大小.cs" />
+              <option name="titleSlug" value="guess-number-higher-or-lower" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[375]猜数字大小 II.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[375]猜数字大小 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn375" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[375]猜数字大小 II.cs" />
+              <option name="titleSlug" value="guess-number-higher-or-lower-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[376]摆动序列.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[376]摆动序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn376" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[376]摆动序列.cs" />
+              <option name="titleSlug" value="wiggle-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[377]组合总和 Ⅳ.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[377]组合总和 Ⅳ.md" />
+              <option name="frontendQuestionId" value="leetcode.cn377" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[377]组合总和 Ⅳ.cs" />
+              <option name="titleSlug" value="combination-sum-iv" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[378]有序矩阵中第 K 小的元素.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[378]有序矩阵中第 K 小的元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn378" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[378]有序矩阵中第 K 小的元素.cs" />
+              <option name="titleSlug" value="kth-smallest-element-in-a-sorted-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[380]O(1) 时间插入、删除和获取随机元素.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[380]O(1) 时间插入、删除和获取随机元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn380" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[380]O(1) 时间插入、删除和获取随机元素.cs" />
+              <option name="titleSlug" value="insert-delete-getrandom-o1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[497]非重叠矩形中的随机点.cs">
           <value>
             <LeetcodeEditor>
