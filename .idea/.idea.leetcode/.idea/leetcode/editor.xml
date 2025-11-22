@@ -2401,6 +2401,94 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[381]O(1) 时间插入、删除和获取随机元素 - 允许重复.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[381]O(1) 时间插入、删除和获取随机元素 - 允许重复.md" />
+              <option name="frontendQuestionId" value="leetcode.cn381" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[381]O(1) 时间插入、删除和获取随机元素 - 允许重复.cs" />
+              <option name="titleSlug" value="insert-delete-getrandom-o1-duplicates-allowed" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[382]链表随机节点.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[382]链表随机节点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn382" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[382]链表随机节点.cs" />
+              <option name="titleSlug" value="linked-list-random-node" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[383]赎金信.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[383]赎金信.md" />
+              <option name="frontendQuestionId" value="leetcode.cn383" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[383]赎金信.cs" />
+              <option name="titleSlug" value="ransom-note" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[384]打乱数组.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[384]打乱数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn384" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[384]打乱数组.cs" />
+              <option name="titleSlug" value="shuffle-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[385]迷你语法分析器.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[385]迷你语法分析器.md" />
+              <option name="frontendQuestionId" value="leetcode.cn385" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[385]迷你语法分析器.cs" />
+              <option name="titleSlug" value="mini-parser" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[386]字典序排数.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[386]字典序排数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn386" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[386]字典序排数.cs" />
+              <option name="titleSlug" value="lexicographical-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[387]字符串中的第一个唯一字符.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[387]字符串中的第一个唯一字符.md" />
+              <option name="frontendQuestionId" value="leetcode.cn387" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[387]字符串中的第一个唯一字符.cs" />
+              <option name="titleSlug" value="first-unique-character-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[388]文件的最长绝对路径.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[388]文件的最长绝对路径.md" />
+              <option name="frontendQuestionId" value="leetcode.cn388" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[388]文件的最长绝对路径.cs" />
+              <option name="titleSlug" value="longest-absolute-file-path" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[497]非重叠矩形中的随机点.cs">
           <value>
             <LeetcodeEditor>

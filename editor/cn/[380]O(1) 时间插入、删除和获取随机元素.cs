@@ -89,6 +89,7 @@ public class RandomizedSet
     }
 }
 
+// ReSharper disable once InvalidXmlDocComment
 /**
  * Your RandomizedSet object will be instantiated and called as such:
  * RandomizedSet obj = new RandomizedSet();
