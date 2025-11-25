@@ -2588,6 +2588,50 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[398]随机数索引.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[398]随机数索引.md" />
+              <option name="frontendQuestionId" value="leetcode.cn398" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[398]随机数索引.cs" />
+              <option name="titleSlug" value="random-pick-index" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[399]除法求值.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[399]除法求值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn399" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[399]除法求值.cs" />
+              <option name="titleSlug" value="evaluate-division" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[400]第 N 位数字.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[400]第 N 位数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn400" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[400]第 N 位数字.cs" />
+              <option name="titleSlug" value="nth-digit" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[401]二进制手表.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[401]二进制手表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn401" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[401]二进制手表.cs" />
+              <option name="titleSlug" value="binary-watch" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[497]非重叠矩形中的随机点.cs">
           <value>
             <LeetcodeEditor>
