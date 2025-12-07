@@ -2676,6 +2676,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[406]根据身高重建队列.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[406]根据身高重建队列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn406" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[406]根据身高重建队列.cs" />
+              <option name="titleSlug" value="queue-reconstruction-by-height" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[497]非重叠矩形中的随机点.cs">
           <value>
             <LeetcodeEditor>
@@ -3135,6 +3146,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[67]二进制求和.cs" />
               <option name="titleSlug" value="add-binary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../repos/leetcode/editor/cn/[406]根据身高重建队列.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[406]根据身高重建队列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn406" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[406]根据身高重建队列.cs" />
+              <option name="titleSlug" value="queue-reconstruction-by-height" />
             </LeetcodeEditor>
           </value>
         </entry>
