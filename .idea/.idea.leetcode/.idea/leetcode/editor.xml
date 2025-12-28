@@ -2775,6 +2775,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[417]太平洋大西洋水流问题.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[417]太平洋大西洋水流问题.md" />
+              <option name="frontendQuestionId" value="leetcode.cn417" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[417]太平洋大西洋水流问题.cs" />
+              <option name="titleSlug" value="pacific-atlantic-water-flow" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[497]非重叠矩形中的随机点.cs">
           <value>
             <LeetcodeEditor>
