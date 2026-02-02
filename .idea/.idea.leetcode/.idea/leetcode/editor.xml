@@ -2830,6 +2830,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[424]替换后的最长重复字符.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[424]替换后的最长重复字符.md" />
+              <option name="frontendQuestionId" value="leetcode.cn424" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[424]替换后的最长重复字符.cs" />
+              <option name="titleSlug" value="longest-repeating-character-replacement" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[427]建立四叉树.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[427]建立四叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn427" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[427]建立四叉树.cs" />
+              <option name="titleSlug" value="construct-quad-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[429]N 叉树的层序遍历.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[429]N 叉树的层序遍历.md" />
+              <option name="frontendQuestionId" value="leetcode.cn429" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[429]N 叉树的层序遍历.cs" />
+              <option name="titleSlug" value="n-ary-tree-level-order-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[497]非重叠矩形中的随机点.cs">
           <value>
             <LeetcodeEditor>
