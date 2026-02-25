@@ -2863,6 +2863,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[430]扁平化多级双向链表.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[430]扁平化多级双向链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn430" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[430]扁平化多级双向链表.cs" />
+              <option name="titleSlug" value="flatten-a-multilevel-doubly-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[432]全 O(1) 的数据结构.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[432]全 O(1) 的数据结构.md" />
+              <option name="frontendQuestionId" value="leetcode.cn432" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[432]全 O(1) 的数据结构.cs" />
+              <option name="titleSlug" value="all-oone-data-structure" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[433]最小基因变化.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[433]最小基因变化.md" />
+              <option name="frontendQuestionId" value="leetcode.cn433" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[433]最小基因变化.cs" />
+              <option name="titleSlug" value="minimum-genetic-mutation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[497]非重叠矩形中的随机点.cs">
           <value>
             <LeetcodeEditor>
