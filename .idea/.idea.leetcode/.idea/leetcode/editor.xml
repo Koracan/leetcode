@@ -2269,6 +2269,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[3655]区间乘法查询后的异或 II.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[3655]区间乘法查询后的异或 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3655" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[3655]区间乘法查询后的异或 II.cs" />
+              <option name="titleSlug" value="xor-after-range-multiplication-queries-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[365]水壶问题.cs">
           <value>
             <LeetcodeEditor>
@@ -2332,6 +2343,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[373]查找和最小的 K 对数字.cs" />
               <option name="titleSlug" value="find-k-pairs-with-smallest-sums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[3740]三个相等元素之间的最小距离 I.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[3740]三个相等元素之间的最小距离 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3740" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[3740]三个相等元素之间的最小距离 I.cs" />
+              <option name="titleSlug" value="minimum-distance-between-three-equal-elements-i" />
             </LeetcodeEditor>
           </value>
         </entry>
