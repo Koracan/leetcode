@@ -38,16 +38,12 @@ public class Solution
     public int ArrangeCoins(int n)
     {
         int lo = 0, hi = n;
-        while (lo < hi)
-        {
-            int mi = lo + (hi - lo) / 2;
-            long sum = (long)mi * (mi + 1) / 2;
+        while (lo < hi) {
+            var mi = lo + (hi - lo) / 2;
+            var sum = (long)mi * (mi + 1) / 2;
 
-            if (n <= sum) {
-                hi = mi;
-            } else {
-                lo = mi + 1;
-            }
+            if (n <= sum) hi = mi;
+            else lo = mi + 1;
         }
         return (long)lo * (lo + 1) / 2 == n ? lo : lo - 1;
     }
