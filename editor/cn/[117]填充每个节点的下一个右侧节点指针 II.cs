@@ -77,11 +77,11 @@ public class Node {
 
 public class Solution
 {
-    public Node Connect(Node? root)
+    public Node? Connect(Node? root)
     {
         if (root == null || root.left == null && root.right == null) return root;
         var current = root;
-        while (current != null) {
+        while (current != null!) {
             Node? nextLevel = null;
             // 找到第一个非空的下层节点
             while (current != null) {

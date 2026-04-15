@@ -46,7 +46,7 @@ namespace PartitionList;
  */
 public class Solution
 {
-    public ListNode Partition(ListNode head, int x)
+    public ListNode? Partition(ListNode? head, int x)
     {
         if (head == null) return null;
 
@@ -54,7 +54,7 @@ public class Solution
         var split = super;
         var current = super;
         while (current.next?.val < x) {
-            split = split.next;
+            split = split?.next;
             current = current.next;
         }
 
@@ -64,7 +64,7 @@ public class Solution
                 // current.next 插入 split 与 split.next 之间
                 var temp = current.next;
                 current.next = current.next.next;
-                temp.next = split.next;
+                temp.next = split!.next;
                 split.next = temp;
                 split = temp;
             } else {

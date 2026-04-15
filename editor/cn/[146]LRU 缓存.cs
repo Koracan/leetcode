@@ -96,7 +96,7 @@ public class LRUCache
             
         } else {  // else, add new node to latest
             var newNode = new ListNode(value, key);
-            _latest.next = newNode;
+            _latest!.next = newNode;
             newNode.prev = _latest;
             _latest = newNode;
         }
@@ -115,25 +115,25 @@ public class LRUCache
         if (node == _latest) return;
 
         if (node == _oldest) {
-            _oldest = node.next;
+            _oldest = node.next!;
             node.next = null;
-            _latest.next = node;
+            _latest!.next = node;
             node.prev = _latest;
             _latest = node;
             return;
         }
             
-        node.prev.next = node.next;
-        node.next.prev = node.prev;
-        _latest.next = node;
+        node.prev!.next = node.next;
+        node.next!.prev = node.prev;
+        _latest!.next = node;
         node.prev = _latest;
         _latest = node;
     }
 
     private int _capacity;
     private Dictionary<int, ListNode> _dict;
-    private ListNode _oldest;
-    private ListNode _latest;
+    private ListNode? _oldest;
+    private ListNode? _latest;
 }
 
 public class ListNode
@@ -151,6 +151,7 @@ public class ListNode
     }
 }
 
+// ReSharper disable once InvalidXmlDocComment
 /**
  * Your LRUCache object will be instantiated and called as such:
  * LRUCache obj = new LRUCache(capacity);

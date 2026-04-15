@@ -65,16 +65,16 @@ public class Solution
         var remainK = true;
 
         while (remainK) {
-            left = leader.next;
-            right = left.next;
+            left = leader.next!;
+            right = left.next!;
             for (var i = 0; i < k - 1; i++) {
-                temp = right.next;
+                temp = right!.next!;
                 right.next = left;
                 left = right;
                 right = temp;
             }
 
-            leader.next.next = right;
+            leader.next!.next = right;
             temp = leader.next;
             leader.next = left;
             leader = temp;
@@ -85,11 +85,11 @@ public class Solution
                     break;
                 }
 
-                right = right.next;
+                right = right.next!;
             }
         }
 
-        return super.next;
+        return super.next!;
     }
 }
 

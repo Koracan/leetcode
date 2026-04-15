@@ -44,11 +44,10 @@ namespace RotateList;
  */
 public class Solution
 {
-    public ListNode RotateRight(ListNode head, int k)
+    public ListNode? RotateRight(ListNode? head, int k)
     {
-        if (head == null) {
-            return null;
-        }
+        if (head == null) return null;
+
         var current = head;
         var length = 1;
         while (current.next != null) {
@@ -58,10 +57,10 @@ public class Solution
         current.next = head;
         k = -k % length + length;
         while (k != 0) {
-            current = current.next;
+            current = current!.next;
             k--;
         }
-        head = current.next;
+        head = current!.next;
         current.next = null;
 
         return head;
@@ -69,13 +68,8 @@ public class Solution
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
-public class ListNode
+public class ListNode(int val = 0, ListNode? next = null)
 {
-    public ListNode? next;
-    public int val;
-    public ListNode(int val = 0, ListNode next = null)
-    {
-        this.val = val;
-        this.next = next;
-    }
+    public ListNode? next = next;
+    public int val = val;
 }

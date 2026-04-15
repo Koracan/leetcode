@@ -104,13 +104,8 @@ public class Solution
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
-public class ListNode
+public class ListNode(int val = 0, ListNode? next = null)
 {
-    public ListNode? next;
-    public int val;
-    public ListNode(int val = 0, ListNode next = null)
-    {
-        this.val = val;
-        this.next = next;
-    }
+    public ListNode? next = next;
+    public int val = val;
 }

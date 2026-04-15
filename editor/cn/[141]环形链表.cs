@@ -69,7 +69,7 @@ namespace LinkedListCycle;
  */
 public class Solution
 {
-    public bool HasCycle(ListNode head)
+    public bool HasCycle(ListNode? head)
     {
         while (head != null) {
             if (head.val == int.MinValue)
@@ -96,13 +96,8 @@ public class Solution
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
-public class ListNode
+public class ListNode(int x)
 {
-    public int val;
-    public ListNode next;
-    public ListNode(int x)
-    {
-        val = x;
-        next = null;
-    }
+    public int val = x;
+    public ListNode? next = null;
 }

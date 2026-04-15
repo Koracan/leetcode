@@ -52,7 +52,7 @@ public class Solution
         var list = new List<int>();
         while (head != null) {
             list.Add(head.val);
-            head = head.next;
+            head = head.next!;
         }
 
         for (int left = 0, right = list.Count - 1; left < right; left++, right--)

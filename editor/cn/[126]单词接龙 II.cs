@@ -97,7 +97,6 @@ public class Solution
         List<string> list = [endWord];
         visited.Clear();
         visited.Add(endWord);
-        var c = 0;
         Dfs();
         return result;
 

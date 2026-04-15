@@ -72,21 +72,21 @@ namespace LinkedListCycleIi;
  */
 public class Solution
 {
-    public ListNode DetectCycle(ListNode head)
+    public ListNode? DetectCycle(ListNode? head)
     {
         var slow = head;
         var fast = head;
         while (fast != null && fast.next != null)
         {
-            slow = slow.next;
+            slow = slow!.next;
             fast = fast.next.next;
             if (slow == fast)
             {
                 var ptr = head;
                 while (ptr != slow)
                 {
-                    ptr = ptr.next;
-                    slow = slow.next;
+                    ptr = ptr!.next;
+                    slow = slow!.next;
                 }
         
                 return ptr;
@@ -105,13 +105,8 @@ public class Solution
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
-public class ListNode
+public class ListNode(int x)
 {
-    public int val;
-    public ListNode next;
-    public ListNode(int x)
-    {
-        val = x;
-        next = null;
-    }
+    public int val = x;
+    public ListNode? next = null;
 }

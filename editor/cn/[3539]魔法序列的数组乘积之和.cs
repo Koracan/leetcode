@@ -77,9 +77,7 @@ public class Solution
 {
     public int MagicalSum(int m, int k, int[] nums)
     {
-        const int mod = 1_000_000_007;
-        var n = nums.Length;
-        return 0;
+        throw new NotImplementedException();
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

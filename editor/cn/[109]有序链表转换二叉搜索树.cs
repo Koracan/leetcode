@@ -57,7 +57,7 @@ namespace ConvertSortedListToBinarySearchTree;
  */
 public class Solution
 {
-    public TreeNode SortedListToBST(ListNode head)
+    public TreeNode SortedListToBST(ListNode? head)
     {
         var nums = new List<int>();
         while (head != null) {

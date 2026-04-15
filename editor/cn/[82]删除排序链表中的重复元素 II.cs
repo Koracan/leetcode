@@ -44,7 +44,7 @@ namespace RemoveDuplicatesFromSortedListIi;
  */
 public class Solution
 {
-    public ListNode DeleteDuplicates(ListNode head)
+    public ListNode? DeleteDuplicates(ListNode? head)
     {
         if (head == null) return head;
 

@@ -91,8 +91,8 @@ public class Solution
         var down = current.left;
         while (down != null) {
             while (current != null) {
-                current.left.next = current.right;
-                if (current.next != null) current.right.next = current.next.left;
+                current.left!.next = current.right;
+                if (current.next != null) current.right!.next = current.next.left;
                 current = current.next;
             }
 

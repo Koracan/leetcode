@@ -55,32 +55,32 @@ public class Solution
         var super = new ListNode(0, head);
         var leader = super;
         while (left > 1) {
-            leader = leader.next;
+            leader = leader!.next;
             left--;
             right--;
         }
-        var l = leader.next;
-        var r = l.next;
+        var l = leader!.next;
+        var r = l!.next;
         ListNode temp;
         for (var i = 0; i < right - 1; i++) {
-            temp = r.next;
+            temp = r!.next!;
             r.next = l;
             l = r;
             r = temp;
         }
 
-        leader.next.next = r;
+        leader.next!.next = r;
         temp = leader.next;
         leader.next = l;
         leader = temp;
 
-        return super.next;
+        return super.next!;
     }
 }
 
 //leetcode submit region end(Prohibit modification and deletion)
 public class ListNode(int val = 0, ListNode? next = null)
 {
-    public ListNode? next;
-    public int val;
+    public ListNode? next = next;
+    public int val = val;
 }

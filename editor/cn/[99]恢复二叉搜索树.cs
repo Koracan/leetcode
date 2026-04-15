@@ -85,13 +85,13 @@ public class Solution
             if (errors == 2 && cycles == 0) break;
 
             prev = root;
-            root = root.right;
+            root = root.right!;
         }
 
 
 
-        var temp = x.val;
-        x.val = y.val;
+        var temp = x!.val;
+        x.val = y!.val;
         y.val = temp; // 交换值
     }
 }

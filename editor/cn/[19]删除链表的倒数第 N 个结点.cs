@@ -59,7 +59,7 @@ public class Solution
     public ListNode? RemoveNthFromEnd(ListNode head, int n)
     {
         ListNode current = head, tail = head;
-        for (var i = 0; i < n - 1; i++) tail = tail.next;
+        for (var i = 0; i < n - 1; i++) tail = tail.next!;
 
         if (tail!.next is null) return head.next;
 
@@ -82,7 +82,7 @@ public class ListNode
     public ListNode? next;
     public int val;
 
-    public ListNode(int val = 0, ListNode next = null)
+    public ListNode(int val = 0, ListNode? next = null)
     {
         this.val = val;
         this.next = next;

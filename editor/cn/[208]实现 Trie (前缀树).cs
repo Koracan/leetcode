@@ -83,7 +83,7 @@ public class Trie
             curr = curr.Children[idx];
         }
 
-        return curr.IsEnd;
+        return curr!.IsEnd;
     }
 
     public bool StartsWith(string prefix)
@@ -106,6 +106,7 @@ public class Trie
     }
 }
 
+// ReSharper disable once InvalidXmlDocComment
 /**
  * Your Trie object will be instantiated and called as such:
  * Trie obj = new Trie();
