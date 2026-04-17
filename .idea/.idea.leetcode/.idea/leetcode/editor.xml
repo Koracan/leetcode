@@ -3083,6 +3083,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[449]序列化和反序列化二叉搜索树.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[449]序列化和反序列化二叉搜索树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn449" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[449]序列化和反序列化二叉搜索树.cs" />
+              <option name="titleSlug" value="serialize-and-deserialize-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[450]删除二叉搜索树中的节点.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[450]删除二叉搜索树中的节点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn450" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[450]删除二叉搜索树中的节点.cs" />
+              <option name="titleSlug" value="delete-node-in-a-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[497]非重叠矩形中的随机点.cs">
           <value>
             <LeetcodeEditor>
