@@ -2412,6 +2412,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[3783]整数的镜像距离.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[3783]整数的镜像距离.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3783" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[3783]整数的镜像距离.cs" />
+              <option name="titleSlug" value="mirror-distance-of-an-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[378]有序矩阵中第 K 小的元素.cs">
           <value>
             <LeetcodeEditor>
@@ -3102,6 +3113,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[450]删除二叉搜索树中的节点.cs" />
               <option name="titleSlug" value="delete-node-in-a-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[451]根据字符出现频率排序.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[451]根据字符出现频率排序.md" />
+              <option name="frontendQuestionId" value="leetcode.cn451" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[451]根据字符出现频率排序.cs" />
+              <option name="titleSlug" value="sort-characters-by-frequency" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[452]用最少数量的箭引爆气球.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[452]用最少数量的箭引爆气球.md" />
+              <option name="frontendQuestionId" value="leetcode.cn452" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[452]用最少数量的箭引爆气球.cs" />
+              <option name="titleSlug" value="minimum-number-of-arrows-to-burst-balloons" />
             </LeetcodeEditor>
           </value>
         </entry>
