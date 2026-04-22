@@ -118,25 +118,25 @@ public class Solution
 public class NestedInteger
 {
     // Constructor initializes an empty nested list.
-    public NestedInteger() => throw new NotImplementedException();
+    public NestedInteger() => throw new NotSupportedException();
 
     // Constructor initializes a single integer.
-    public NestedInteger(int value) => throw new NotImplementedException();
+    public NestedInteger(int value) => throw new NotSupportedException();
 
     // @return true if this NestedInteger holds a single integer, rather than a nested list.
-    bool IsInteger() => throw new NotImplementedException();
+    bool IsInteger() => throw new NotSupportedException();
 
     // @return the single integer that this NestedInteger holds, if it holds a single integer
     // Return null if this NestedInteger holds a nested list
-    int GetInteger() => throw new NotImplementedException();
+    int GetInteger() => throw new NotSupportedException();
 
     // Set this NestedInteger to hold a single integer.
-    public void SetInteger(int value) => throw new NotImplementedException();
+    public void SetInteger(int value) => throw new NotSupportedException();
 
     // Set this NestedInteger to hold a nested list and adds a nested integer to it.
-    public void Add(NestedInteger ni) => throw new NotImplementedException();
+    public void Add(NestedInteger ni) => throw new NotSupportedException();
 
     // @return the nested list that this NestedInteger holds, if it holds a nested list
     // Return null if this NestedInteger holds a single integer
-    IList<NestedInteger> GetList() => throw new NotImplementedException();
+    IList<NestedInteger> GetList() => throw new NotSupportedException();
 }

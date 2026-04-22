@@ -55,16 +55,42 @@
 // Related Topics 水塘抽样 数组 数学 二分查找 有序集合 前缀和 随机化 👍 158 👎 0
 
 namespace RandomPointInNonOverlappingRectangles;
-//leetcode submit region begin(Prohibit modification and deletion)
-public class Solution {
 
-    public Solution(int[][] rects) {
-        
+//leetcode submit region begin(Prohibit modification and deletion)
+public class Solution
+{
+    private readonly int[][] _rects;
+    private readonly Random _rand = Random.Shared;
+    private readonly int[] _areas; // 前缀和数组，_areas[i] 是前 i 个矩形的面积之和
+    public Solution(int[][] rects)
+    {
+        _rects = rects;
+        var n = rects.Length;
+        _areas = new int[n];
+        for (int i = 0; i < n; i++) {
+            var dx = rects[i][2] - rects[i][0] + 1;
+            var dy = rects[i][3] - rects[i][1] + 1;
+            _areas[i] = dx * dy;
+        }
+        for (int i = 1; i < n; i++) {
+            _areas[i] += _areas[i - 1];
+        }
     }
-    
+
     public int[] Pick()
     {
-        throw new NotImplementedException();
+        var target = _rand.Next(_areas[^1]);
+        var index = Array.BinarySearch(_areas, target);
+        if (index < 0) {
+            index = ~index;
+        } else {
+            // 精确匹配时，该点实际属于下一个矩形
+            index++;
+        }
+        var rect = _rects[index];
+        var dx = rect[2] - rect[0] + 1;
+        var offset = target - (index == 0 ? 0 : _areas[index - 1]);
+        return [rect[0] + offset % dx, rect[1] + offset / dx];
     }
 }
 

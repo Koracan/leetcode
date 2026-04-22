@@ -62,5 +62,5 @@ public class Solution : VersionControl
 //leetcode submit region end(Prohibit modification and deletion)
 public class VersionControl
 {
-    protected bool IsBadVersion(int version) => throw new NotImplementedException();
+    protected bool IsBadVersion(int version) => throw new NotSupportedException();
 }

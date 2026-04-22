@@ -81,5 +81,5 @@ public class Solution : GuessGame
 
 public class GuessGame
 {
-    protected int guess(int num) => throw new NotImplementedException();
+    protected int guess(int num) => throw new NotSupportedException();
 }

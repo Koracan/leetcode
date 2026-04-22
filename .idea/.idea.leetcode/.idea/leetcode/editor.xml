@@ -1499,6 +1499,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2452]距离字典两次编辑以内的单词.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2452]距离字典两次编辑以内的单词.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2452" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2452]距离字典两次编辑以内的单词.cs" />
+              <option name="titleSlug" value="words-within-two-edits-of-dictionary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[257]二叉树的所有路径.cs">
           <value>
             <LeetcodeEditor>
@@ -3135,6 +3146,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[452]用最少数量的箭引爆气球.cs" />
               <option name="titleSlug" value="minimum-number-of-arrows-to-burst-balloons" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[453]最小操作次数使数组元素相等.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[453]最小操作次数使数组元素相等.md" />
+              <option name="frontendQuestionId" value="leetcode.cn453" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[453]最小操作次数使数组元素相等.cs" />
+              <option name="titleSlug" value="minimum-moves-to-equal-array-elements" />
             </LeetcodeEditor>
           </value>
         </entry>
