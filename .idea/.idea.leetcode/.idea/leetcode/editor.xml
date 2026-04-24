@@ -1664,6 +1664,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[2833]距离原点最远的点.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2833]距离原点最远的点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2833" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[2833]距离原点最远的点.cs" />
+              <option name="titleSlug" value="furthest-point-from-origin" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[283]移动零.cs">
           <value>
             <LeetcodeEditor>
@@ -3157,6 +3168,50 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[453]最小操作次数使数组元素相等.cs" />
               <option name="titleSlug" value="minimum-moves-to-equal-array-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[454]四数相加 II.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[454]四数相加 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn454" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[454]四数相加 II.cs" />
+              <option name="titleSlug" value="4sum-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[455]分发饼干.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[455]分发饼干.md" />
+              <option name="frontendQuestionId" value="leetcode.cn455" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[455]分发饼干.cs" />
+              <option name="titleSlug" value="assign-cookies" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[456]132 模式.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[456]132 模式.md" />
+              <option name="frontendQuestionId" value="leetcode.cn456" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[456]132 模式.cs" />
+              <option name="titleSlug" value="132-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[457]环形数组是否存在循环.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[457]环形数组是否存在循环.md" />
+              <option name="frontendQuestionId" value="leetcode.cn457" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[457]环形数组是否存在循环.cs" />
+              <option name="titleSlug" value="circular-array-loop" />
             </LeetcodeEditor>
           </value>
         </entry>
