@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$USER_HOME$/source/leetcode/editor/cn/[461]汉明距离.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[461]汉明距离.md" />
+              <option name="frontendQuestionId" value="leetcode.cn461" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[461]汉明距离.cs" />
+              <option name="titleSlug" value="hamming-distance" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[100]相同的树.cs">
           <value>
             <LeetcodeEditor>
@@ -3245,6 +3256,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[460]LFU 缓存.cs" />
               <option name="titleSlug" value="lfu-cache" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[461]汉明距离.cs">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[461]汉明距离.md" />
+              <option name="frontendQuestionId" value="leetcode.cn461" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[461]汉明距离.cs" />
+              <option name="titleSlug" value="hamming-distance" />
             </LeetcodeEditor>
           </value>
         </entry>
